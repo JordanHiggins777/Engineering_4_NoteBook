@@ -78,28 +78,41 @@ Engineering 4 things and stuff.
 <details>
 <summary>Hello PI</summary>
 
-#### Objective:
-### Prossess:
+## Objective:
+## Prossess:
 ## Code Explanation:
-# Reflection:
+## Diagram:
+## Reflection:
 </p>
 </details>
   <details>
 <summary>Get the Pi online</summary>
-      Space to write 
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Diagram:
+## Reflection:
 </p>
 </details>
   <details>
 <summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
-
-         
-  Space to write 
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Diagram:
+## Reflection: 
 </p>
 </details>
 <details>
 <summary>Python Assignment 1: Calculator  </summary>
-
-  Space to write 
+              
+## Objective:
+## Prossess:
+## Code Explanation:
+## Diagram:
+## Reflection:
 </p>
 </details>
   <details>
