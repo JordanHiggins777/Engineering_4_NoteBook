@@ -78,7 +78,10 @@ Engineering 4 things and stuff.
 <details>
 <summary>Hello PI</summary>
 
-  Space to write 
+#### Objective:
+### Prossess:
+## Code Explanation:
+# Reflection:
 </p>
 </details>
   <details>
