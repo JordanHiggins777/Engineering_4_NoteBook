@@ -19,7 +19,7 @@
   <details>
 <summary>Part 3 - Fork</summary>
 
-          <p align="center">
+          
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Fork.jpg">
 </p>
 </details>
@@ -75,6 +75,24 @@ This is a dropdown with text!
 Engineering 4 things and stuff.
 <details>
 <summary>Python Assignments</summary>
+<details>
+<summary>Hello PI</summary>
+
+  Space to write 
+</p>
+</details>
+  <details>
+<summary>Get the Pi online</summary>
+      Space to write 
+</p>
+</details>
+  <details>
+<summary>Python Assignment 1: Dice Roller  </summary>
+
+         
+  Space to write 
+</p>
+</details>
 <details>
 <summary>Hello PI</summary>
 
