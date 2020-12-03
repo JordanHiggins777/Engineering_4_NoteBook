@@ -67,10 +67,26 @@ This is a dropdown with text!
 </details>
 
 
-# Engineering_4_NoteBook
+# Python Assignments
 Engineering 4 things and stuff.
 <details>
-<summary>Hello PI</summary>
-<br>
-Despite this assignment being only 2 lines of code it took a unreasonable amount of time to comlpeate.
+<summary>CASTER</summary>
+<details>
+<summary>Part 1 - Base</summary>
+
+  Space to write 
+</p>
 </details>
+  <details>
+<summary>Part 2 - Mount</summary>
+      Space to write 
+</p>
+</details>
+  <details>
+<summary>Python  </summary>
+
+         
+  Space to write 
+</p>
+</details>
+  <details>
