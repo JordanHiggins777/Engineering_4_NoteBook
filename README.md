@@ -70,23 +70,22 @@ This is a dropdown with text!
 # Python Assignments
 Engineering 4 things and stuff.
 <details>
-<summary>CASTER</summary>
+<summary>Python Assignments</summary>
 <details>
-<summary>Part 1 - Base</summary>
+<summary>Hello PI</summary>
 
   Space to write 
 </p>
 </details>
   <details>
-<summary>Part 2 - Mount</summary>
+<summary>Get the Pi online</summary>
       Space to write 
 </p>
 </details>
   <details>
-<summary>Python  </summary>
+<summary>Python Assignment 1: Dice Roller  </summary>
 
          
   Space to write 
 </p>
 </details>
-  <details>
