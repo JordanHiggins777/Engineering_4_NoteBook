@@ -1,6 +1,6 @@
-# Onshape
+# CAD
 <details>
-  <summary>Onshape</summary>
+  <summary>Onshape Assignments</summary>
 <details>
 <summary>CASTER</summary>
 <details>
@@ -67,6 +67,8 @@ This is a dropdown with text!
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Frame.jpg">
 </p>
 </details>
+</p>
+</details>
 
 
 # Python Assignments
@@ -89,7 +91,5 @@ Engineering 4 things and stuff.
 
          
   Space to write 
-</p>
-</details>
 </p>
 </details>
