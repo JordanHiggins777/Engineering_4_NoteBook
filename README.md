@@ -1,5 +1,7 @@
 # Onshape
 <details>
+  <summary>Onshape</summary>
+<details>
 <summary>CASTER</summary>
 <details>
 <summary>Part 1 - Base</summary>
@@ -87,5 +89,7 @@ Engineering 4 things and stuff.
 
          
   Space to write 
+</p>
+</details>
 </p>
 </details>
