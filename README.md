@@ -87,25 +87,25 @@ Engineering 4 things and stuff.
 </p>
 </details>
   <details>
-<summary>Python Assignment 1: Dice Roller  </summary>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
 
          
   Space to write 
 </p>
 </details>
 <details>
-<summary>Hello PI</summary>
+<summary>Python Assignment 1: Calculator  </summary>
 
   Space to write 
 </p>
 </details>
   <details>
-<summary>Get the Pi online</summary>
+<summary>Python Assignment 2: Quadratic Solver  </summary>
       Space to write 
 </p>
 </details>
   <details>
-<summary>Python Assignment 1: Dice Roller  </summary>
+<summary>Python Assignment 3: Strings and Loops  </summary>
 
          
   Space to write 
