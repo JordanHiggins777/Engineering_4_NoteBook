@@ -152,6 +152,17 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
 <summary>Python Assignment 3: Strings and Loops  </summary>
 
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
@@ -164,11 +175,6 @@ Given you are reading this I did eventually get this assignment done.
 | Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
 | Assignment 8 Fancy LED     | 6      |   ~1 week |
-</p>
-</p>
-</details>
-
-</details>
 
 </p>
 </details>
