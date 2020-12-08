@@ -87,7 +87,7 @@ All this assignment is, is 2 lines of code
 
 for i in range(0,10): ## this sets the amount of times the loop runs for in this case its 10 times.
 	print("Hello, World!") ##this prints the any statment in the quotations.
-  
+  ## Problems and Solutions:
 ## Diagram:
 ## Reflection: 
 While this assignment is by far the simplest it may have taken the most time out of any. With the transition to at home engineering and the fact Ive never used a raspberry PI didnt help. 
@@ -96,11 +96,27 @@ While this assignment is by far the simplest it may have taken the most time out
   <details>
 <summary>Get the Pi online</summary>
             
-## Objective:
+## Objective: 
+Make a Engineering 4 notebook in GitHub.
 ## Prossess:
+This was another assignment that was provided a youtube video as a resorce(LINK:https://www.youtube.com/watch?v=9IpcrxeftwE&feature=emb_title).Getting the PI online was a bit difficult for me personaly because of my pi disintegrating the SD cards it came in contact with, thus I had to get a new PI in person and that was a prossess in itself because this is 2020 and getting sheadules to match up is a nightmare. regardless i eventually got the new PI online and a engineering 4 notebook up. The hardest part of the actual assignment was this one glitch where it didnt reconize my account, I just shoutdown the pi and tried again. My guess is this just came down to a typo error. Other then that i had no problemsi
 ## Code Explanation:
+N/A whoops no code.
+## Problems and Solutions:
+#### Problem 1:
+My pi disintegrating the SD cards it came in contact with
+#### Solution 1: 
+Get a new PI
+
+#### Problem 2:
+The .conf command does not reconize your account
+#### Solution 2: 
+Restart from the begining it was probly a typing error(It was for me)
+
 ## Diagram:
+N/A
 ## Reflection:
+Given you are reading this I did eventually get this assignment done.  
 </p>
 </details>
   <details>
@@ -109,6 +125,7 @@ While this assignment is by far the simplest it may have taken the most time out
 ## Objective:
 ## Prossess:
 ## Code Explanation:
+## Problems and Solutions:
 ## Diagram:
 ## Reflection: 
 </p>
@@ -119,6 +136,7 @@ While this assignment is by far the simplest it may have taken the most time out
 ## Objective:
 ## Prossess:
 ## Code Explanation:
+## Problems and Solutions:
 ## Diagram:
 ## Reflection:
 </p>
