@@ -154,14 +154,6 @@ Given you are reading this I did eventually get this assignment done.
   <details>
 <summary>Python Assignment 3: Strings and Loops  </summary>
 
-         
-  Space to write 
-</p>
-</details>
-
-</details>
-<summary> Diffuculty Chart </summary>
-
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
 | Assignment 1 LED fade    | 1 | ~2 Days |
@@ -172,6 +164,12 @@ Given you are reading this I did eventually get this assignment done.
 | Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
 | Assignment 8 Fancy LED     | 6      |   ~1 week |
+</p>
+</p>
+</details>
+
+</details>
+
 </p>
 </details>
 
