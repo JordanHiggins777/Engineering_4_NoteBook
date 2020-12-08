@@ -171,6 +171,8 @@ Given you are reading this I did eventually get this assignment done.
 | Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
 | Assignment 8 Fancy LED     | 6      |   ~1 week |
+</p>
+</details>
 
 </p>
 </details>
