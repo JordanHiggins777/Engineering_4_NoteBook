@@ -163,7 +163,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment: Hangman Game   </summary>
+<summary>Python Pseudo Project: Hangman Game   </summary>
             
 ## Objective:
 ## Prossess:
@@ -222,15 +222,19 @@ Given you are reading this I did eventually get this assignment done.
 
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
-| Assignment 1 LED fade    | 1 | ~2 Days |
-| Assignment 2 Captiev touch servo    | 2      |  ~3 Days |
-| Assignment 3 LCD and Button | 7      |    ~2 Weeks |
-| Assignment 4 Photo Interrupter | 4      |   ~1 Week|
-| Assignment 5 Neopixel and Sonar | 5      |    ~1 Week |
-| Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
+| Hello PI    | 1 | ~2 Days |
+| Get the Pi online   | 3      |  ~3 Days |
+| Python Assignment 0: Hello Python/Dice Roller | 6    |  ~1.5 Weeks   |
+| Python Assignment 1: Calculator | 7      |    ~2 Weeks |
+| Python Assignment 2: Quadratic Solver | 4      |   ~1 Week|
+| Python Assignment 3: Strings and Loops- Vertical Sentence | 5      |    ~1 Week |
+| Python Pseudo Project: Hangman Game | 6    |  ~1.5 Weeks   |
+| GPIO Pins:Bash |  2     |    ~1 day |
+|  GPIO Pins:Python    | 6      |   ~1 week |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
 | Assignment 8 Fancy LED     | 6      |   ~1 week |
-
+| Assignment 7 Hello VS code |  2     |    ~1 day |
+| Assignment 8 Fancy LED     | 6      |   ~1 week |
 </p>
 </details>
 
