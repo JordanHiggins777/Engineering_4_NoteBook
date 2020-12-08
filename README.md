@@ -158,6 +158,7 @@ Given you are reading this I did eventually get this assignment done.
   Space to write 
 </p>
 </details>
+
 </details>
 <summary> Diffuculty Chart </summary>
 
