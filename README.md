@@ -81,18 +81,33 @@ Engineering 4 things and stuff.
 ## Objective: 
 Power up my Rasperry PI then wrtie a program that spits out "Hello World!" 10 times.
 ## Prossess:
-Given this was the first assignment of the year the actual prossess of writing the code and powering on my Pi were very simple given Dr.Sheilds had given a step by step tutorial(LINK: https://youtu.be/FFUm7omFLUE) on how to do the assignment.
+Given this was the first assignment of the year, the actual prossess of writing the code and powering on my Pi were very simple given Dr.Sheilds had given a step by step tutorial(LINK: https://youtu.be/FFUm7omFLUE) on how to do the assignment. Just follow this step by step and youll be done assuming no technecal errors.
 ## Code Explanation: 
 All this assignment is, is 2 lines of code
 ```
-for i in range(0,10):          ## this sets the amount of times the loop runs for in this case its 10 times.
+for i in range(0,10):          ## this sets the amount of times the loop runs for in this case it's 10 times.
 	print("Hello, World!")      ##this prints any statment in the quotations.
 ```
 ## Problems and Solutions:
+#### Problem 1: 
+Your PI does not turn on
+#### Solution 1:
+Turn it off and on again. If that does not work you may have a fualty pi especially if your PI starts to heat up.
+#### Problem 2:
+The 2 lines of code simply do not work
+#### Solution 2:
+Check to make sure its a ".py" file, check that your pi led is on, and check for any misspellings in the code.
 ## Diagram:
 ## Reflection: 
 While this assignment is by far the simplest it may have taken the most time out of any. With the transition to at home engineering and the fact Ive never used a raspberry PI didnt help. 
-## Resources
+## Resources:
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 </p>
 </details>
