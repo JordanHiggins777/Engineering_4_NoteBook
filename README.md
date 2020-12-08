@@ -163,6 +163,61 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
+<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+            
+## Objective:
+## Prossess:
+## Code Explanation:
+## Problems and Solutions:
+## Diagram:
+## Reflection: 
+</p>
+</details>
+  <details>
 <summary>Python Assignment 3: Strings and Loops  </summary>
 
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
