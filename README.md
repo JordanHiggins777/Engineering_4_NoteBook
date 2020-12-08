@@ -87,10 +87,12 @@ All this assignment is, is 2 lines of code
 
 for i in range(0,10): ## this sets the amount of times the loop runs for in this case its 10 times.
 	print("Hello, World!") ##this prints the any statment in the quotations.
-  ## Problems and Solutions:
+## Problems and Solutions:
 ## Diagram:
 ## Reflection: 
 While this assignment is by far the simplest it may have taken the most time out of any. With the transition to at home engineering and the fact Ive never used a raspberry PI didnt help. 
+## Resources
+
 </p>
 </details>
   <details>
@@ -113,10 +115,12 @@ The .conf command does not reconize your account
 #### Solution 2: 
 Restart from the begining it was probly a typing error(It was for me)
 
-## Diagram:
+## Diagram/Picture:
 N/A
 ## Reflection:
 Given you are reading this I did eventually get this assignment done.  
+## Resources:
+
 </p>
 </details>
   <details>
