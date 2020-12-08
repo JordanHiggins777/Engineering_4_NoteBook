@@ -84,9 +84,10 @@ Power up my Rasperry PI then wrtie a program that spits out "Hello World!" 10 ti
 Given this was the first assignment of the year the actual prossess of writing the code and powering on my Pi were very simple given Dr.Sheilds had given a step by step tutorial(LINK: https://youtu.be/FFUm7omFLUE) on how to do the assignment.
 ## Code Explanation: 
 All this assignment is, is 2 lines of code
-
-for i in range(0,10): ## this sets the amount of times the loop runs for in this case its 10 times.
-	print("Hello, World!") ##this prints the any statment in the quotations.
+```
+for i in range(0,10):          ## this sets the amount of times the loop runs for in this case its 10 times.
+	print("Hello, World!")      ##this prints any statment in the quotations.
+```
 ## Problems and Solutions:
 ## Diagram:
 ## Reflection: 
