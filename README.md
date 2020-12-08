@@ -152,7 +152,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>Python Assignment 3: Strings and Loops- Vertical Sentence  </summary>
             
 ## Objective:
 ## Prossess:
@@ -163,7 +163,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>Python Assignment: Hangman Game   </summary>
             
 ## Objective:
 ## Prossess:
@@ -174,7 +174,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>GPIO Pins:Bash  </summary>
             
 ## Objective:
 ## Prossess:
@@ -185,7 +185,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>GPIO Pins:Python   </summary>
             
 ## Objective:
 ## Prossess:
@@ -196,7 +196,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>GPIO Pins:SSH </summary>
             
 ## Objective:
 ## Prossess:
@@ -207,7 +207,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 0: Hello Python/Dice Roller  </summary>
+<summary>GPIO Pins - I2C</summary>
             
 ## Objective:
 ## Prossess:
@@ -218,7 +218,7 @@ Given you are reading this I did eventually get this assignment done.
 </p>
 </details>
   <details>
-<summary>Python Assignment 3: Strings and Loops  </summary>
+<summary>Difficulty Chart  </summary>
 
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
