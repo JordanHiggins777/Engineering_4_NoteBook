@@ -158,3 +158,24 @@ Given you are reading this I did eventually get this assignment done.
   Space to write 
 </p>
 </details>
+
+
+
+
+
+
+<summary> Diffuculty Chart </summary>
+
+| Assignments        | Difficulty rating out of 10 | How you should budget time  |
+| ------------- |:-------------:| -----:|
+| Assignment 1 LED fade    | 1 | ~2 Days |
+| Assignment 2 Captiev touch servo    | 2      |  ~3 Days |
+| Assignment 3 LCD and Button | 7      |    ~2 Weeks |
+| Assignment 4 Photo Interrupter | 4      |   ~1 Week|
+| Assignment 5 Neopixel and Sonar | 5      |    ~1 Week |
+| Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
+| Assignment 7 Hello VS code |  2     |    ~1 day |
+| Assignment 8 Fancy LED     | 6      |   ~1 week |
+
+</p>
+</details>
