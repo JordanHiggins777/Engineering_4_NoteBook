@@ -100,7 +100,7 @@ Check to make sure its a ".py" file, check that your pi led is on, and check for
 ## Diagram/Picture:
 
   <p align="center">
-  <img width="300" src= images/hello.png>
+  <img width="300" src= "https://github.com/JordanHiggins777/Engineering_4_NoteBook/blob/main/images/hello.png">
 	
 ## Reflection: 
 While this assignment is by far the simplest it may have taken the most time out of any. With the transition to at home engineering and the fact Ive never used a raspberry PI didnt help. 
