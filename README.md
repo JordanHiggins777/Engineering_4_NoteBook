@@ -98,6 +98,10 @@ The 2 lines of code simply do not work
 #### Solution 2:
 Check to make sure its a ".py" file, check that your pi led is on, and check for any misspellings in the code.
 ## Diagram/Picture:
+
+  <p align="center">
+  <img width="300" src= images/hello.png>
+	
 ## Reflection: 
 While this assignment is by far the simplest it may have taken the most time out of any. With the transition to at home engineering and the fact Ive never used a raspberry PI didnt help. 
 ## Resources:
