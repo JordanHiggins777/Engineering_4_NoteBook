@@ -132,7 +132,7 @@ Restart from the begining it was probly a typing error(It was for me)
 ## Diagram/Picture:
 N/A
 ## Reflection:
-Given you are reading this I did eventually get this assignment done.  
+Given you are reading this I did eventually get this assignment done. This was a easy assignment that wouldve taken ~ one day to complete in different senario, hopefully in the near future 2020 quarantine will be over.    
 ## Resources:
 
 </p>
