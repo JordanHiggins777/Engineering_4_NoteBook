@@ -143,10 +143,12 @@ Given you are reading this I did eventually get this assignment done. This was a
 ## Objective:
 write code that functions as a six sided die.
 ## Prossess:
+First things first, google "python dice roller" youll find various snipbits of code that work but you might have to make some changes for sake of simplicity. 
 ## Code Explanation:
 ## Problems and Solutions:
 ## Diagram:
 ## Reflection:
+This was the first coding assignment of the year,in that you code a simple dice roller. This assignment will introduce to you basic inputs, and randomizers. Looking back this assignment wasnt too hard and its a good way to dip your toes into coding at the begining of the year.
 ## Resources:
 https://www.pythonforbeginners.com/code-snippets-source-code/game-rolling-the-dice
 
@@ -155,17 +157,29 @@ https://www.pythonforbeginners.com/code-snippets-source-code/game-rolling-the-di
 <details>
 <summary>Python Assignment 1: Calculator  </summary>
               
+## Objective: 
+Program a basic calculator that calculates, sum, difference, quotient, and modulo of two numbers.
+## Prossess: 
+Just like dice, calculators are very common and thus code for calculators are also very common. A quick google search will give you all the resorces you need its pretty surface level. 
+## Code Explanation:
+```
+```
+## Problems and Solutions:
+
+## Diagram:
+
+## Reflection:
+</p>
+</details>
+  <details>
+<summary>Python Assignment 2: Quadratic Solver  </summary>
+ 
 ## Objective:
 ## Prossess:
 ## Code Explanation:
 ## Problems and Solutions:
 ## Diagram:
 ## Reflection:
-</p>
-</details>
-  <details>
-<summary>Python Assignment 2: Quadratic Solver  </summary>
-      Space to write 
 </p>
 </details>
   <details>
