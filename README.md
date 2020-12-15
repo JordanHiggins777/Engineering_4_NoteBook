@@ -145,6 +145,27 @@ write code that functions as a six sided die.
 ## Prossess:
 First things first, google "python dice roller" youll find various snipbits of code that work but you might have to make some changes for sake of simplicity. 
 ## Code Explanation:
+```
+import random
+```
+this allows for randomness to exist when we use it for the dice roller
+```
+
+question = input('Would you like to roll the dice [y/n]?\n')
+```
+Input is a piece of code that asks for a user input. The way I like to think about it is "Input" replaces what would be a "Print". For example if one replaced Input with print the code would be - print('Would you like to roll the dice [y/n]?\n') -  all this would do is spit out the statment in quotations. Input asks for a users INPUT or just to type something following the statment. When you call input something in this case "question" you can then call upon it later.
+```
+while question != 'n':
+    if question == 'y': #questions are prints requireing a input after 
+        die = random.randint(1, 6) #sets range from 1-6
+        print(die)  #print a number 1-6
+        question = input('Would you like to roll the dice [y/n]?\n')
+    else:
+        print('Invalid response. Please type "y" or "n".') #prints a statement
+        question = input('Would you like to roll the dice [y/n]?\n')        
+
+print('Good-bye!')
+```
 ## Problems and Solutions:
 ## Diagram:
 ## Reflection:
