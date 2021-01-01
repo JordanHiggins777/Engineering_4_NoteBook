@@ -115,25 +115,24 @@ Dr.Sheilds Step by Step https://youtu.be/FFUm7omFLUE
 ## Objective: 
 Make a Engineering 4 notebook in GitHub.
 ## Prossess:
-This was another assignment that was provided a youtube video as a resorce(LINK:https://www.youtube.com/watch?v=9IpcrxeftwE&feature=emb_title).Getting the PI online was a bit difficult for me personaly because of my pi disintegrating the SD cards it came in contact with, thus I had to get a new PI in person and that was a prossess in itself because this is 2020 and getting sheadules to match up is a nightmare. regardless i eventually got the new PI online and a engineering 4 notebook up. The hardest part of the actual assignment was this one glitch where it didnt reconize my account, I just shoutdown the pi and tried again. My guess is this just came down to a typo error. Other then that i had no problems.
+This was another assignment that was provided a youtube video as a resorce(LINK:https://www.youtube.com/watch?v=9IpcrxeftwE&feature=emb_title).Getting the PI online was a bit difficult for me personaly because of my pi disintegrating the SD cards it came in contact with, thus I had to get a new PI in person, and that was a prossess in itself because this is 2020 and getting sheadules to match up is a nightmare. Regardless I eventually got the new PI online and a engineering 4 notebook up. The hardest part of the actual assignment was this one glitch where it didnt reconize my account, I just shoutdown the pi and tried again. My guess is this just came down to a typo error. Other then that I had no problems.
 ## Code Explanation:
 N/A whoops no code.
 ## Problems and Solutions:
 #### Problem 1:
-My pi disintegrating the SD cards it came in contact with
+My pi is getting hot and the green light wont turn on
 #### Solution 1: 
 Get a new PI
 
 #### Problem 2:
 The .conf command does not reconize your account
 #### Solution 2: 
-Restart from the begining it was probly a typing error(It was for me)
+Restart from the begining it might be a typing error(It was for me)
 
-## Diagram/Picture:
-N/A
 ## Reflection:
 Given you are reading this I did eventually get this assignment done. This was a easy assignment that wouldve taken ~ one day to complete in different senario, hopefully in the near future 2020 quarantine will be over.    
-## Resources:
+## Resources: 
+The step by step https://www.youtube.com/watch?v=9IpcrxeftwE&feature=emb_title
 
 </p>
 </details>
@@ -166,7 +165,7 @@ while question != 'n':
 
 print('Good-bye!')
 ```
-## Problems and Solutions:
+The rest of the code involves making a while loop then setting a variable equal to a number from 1-6 then just asking for the user to type y or n to continue spitting out numbers.
 ## Diagram:
 ## Reflection:
 This was the first coding assignment of the year,in that you code a simple dice roller. This assignment will introduce to you basic inputs, and randomizers. Looking back this assignment wasnt too hard and its a good way to dip your toes into coding at the begining of the year.
