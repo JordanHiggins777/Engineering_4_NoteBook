@@ -167,6 +167,8 @@ print('Good-bye!')
 ```
 The rest of the code involves making a while loop then setting a variable equal to a number from 1-6 then just asking for the user to type y or n to continue spitting out numbers.
 ## Diagram:
+  <p align="center">
+  <img width="300" src= "https://github.com/JordanHiggins777/Engineering_4_NoteBook/blob/main/dice.png">
 ## Reflection:
 This was the first coding assignment of the year,in that you code a simple dice roller. This assignment will introduce to you basic inputs, and randomizers. Looking back this assignment wasnt too hard and its a good way to dip your toes into coding at the begining of the year.
 ## Resources:
@@ -222,6 +224,8 @@ This assignment started out with a simmilar prosses to the calculator, where I h
 ## Code Explanation:
 ## Problems and Solutions:
 ## Diagram:
+  <p align="center">
+  <img width="300" src= "https://github.com/JordanHiggins777/Engineering_4_NoteBook/blob/main/quad.png">
 ## Reflection:
 </p>
 </details>
@@ -229,10 +233,13 @@ This assignment started out with a simmilar prosses to the calculator, where I h
 <summary>Python Assignment 3: Strings and Loops- Vertical Sentence  </summary>
             
 ## Objective:
+Write code that turns a horizontial sentence into a vertical one.
 ## Prossess:
 ## Code Explanation:
 ## Problems and Solutions:
 ## Diagram:
+  <p align="center">
+  <img width="300" src= "https://github.com/JordanHiggins777/Engineering_4_NoteBook/blob/main/strandloops.png">
 ## Reflection: 
 </p>
 </details>
