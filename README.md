@@ -72,7 +72,6 @@ This is a dropdown with text!
 
 
 # Python Assignments
-Engineering 4 things and stuff.
 <details>
 <summary>Python Assignments</summary>
 <details>
