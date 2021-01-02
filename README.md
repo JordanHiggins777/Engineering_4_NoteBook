@@ -183,19 +183,42 @@ Program a basic calculator that calculates, sum, difference, quotient, and modul
 Just like dice, calculators are very common and thus code for calculators are also very common. A quick google search will give you all the resorces you need its pretty surface level. 
 ## Code Explanation:
 ```
+def doMath(a,b):
+	print("Sum:", a+b)
+	print("Difference:", a-b)
+	print("Product", a*b)
+	print("Quotient", round(a/b, 2))
+	print("Modulo", a%b)
 ```
+This is a function that runs a and b through all these expressions then prints out the result.
+```
+number_1 = float(input("Enter the first number:"))
+number_2 = float(input("Enter the second number"))
+
+
+(doMath(number_1,number_2))
+```
+The remaining code sets a and b as terms in this case I just used number 1 and 2. Then just print the numbers and there you have your calculator.
+
 ## Problems and Solutions:
+Problem 1: My code is far too long
+
+Solution 1: Make sure you make a function that any 2 terms could run through not hardcode.
 
 ## Diagram:
 
-## Reflection:
+## Reflection: 
+This was a simple fun assignment by this point code is finally getting into my system as a skill.
+
 </p>
 </details>
   <details>
 <summary>Python Assignment 2: Quadratic Solver  </summary>
  
-## Objective:
+## Objective: 
+Write code that solves basic algebraic quadratic equation
 ## Prossess:
+This assignment started out with a simmilar prosses to the calculator, where I have a fuction that uses the variables I put in as a user. I imagined the code as the calculator code, but rather than a/b it would be the quadratic equation.
 ## Code Explanation:
 ## Problems and Solutions:
 ## Diagram:
@@ -216,12 +239,7 @@ Just like dice, calculators are very common and thus code for calculators are al
   <details>
 <summary>Python Pseudo Project: Hangman Game   </summary>
             
-## Objective:
-## Prossess:
-## Code Explanation:
-## Problems and Solutions:
-## Diagram:
-## Reflection: 
+# WIP
 </p>
 </details>
   <details>
