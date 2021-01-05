@@ -298,14 +298,14 @@ Write code that turns a horizontial sentence into a vertical one.
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
 | Hello PI    | 1 | ~2 Days |
-| Get the Pi online   | 3      |  ~3 Days |
-| Python Assignment 0: Hello Python/Dice Roller | 6    |  ~1.5 Weeks   |
-| Python Assignment 1: Calculator | 7      |    ~2 Weeks |
-| Python Assignment 2: Quadratic Solver | 4      |   ~1 Week|
-| Python Assignment 3: Strings and Loops- Vertical Sentence | 5      |    ~1 Week |
-| Python Pseudo Project: Hangman Game | 6    |  ~1.5 Weeks   |
-| GPIO Pins:Bash |  2     |    ~1 day |
-|  GPIO Pins:Python    | 6      |   ~1 week |
+| Get the Pi online   | 3      |  ~ 1 week |
+| Python Assignment 0: Hello Python/Dice Roller | 4    |  ~1 week   |
+| Python Assignment 1: Calculator | 4      |    ~2 days |
+| Python Assignment 2: Quadratic Solver | 5      |   ~ 3 days|
+| Python Assignment 3: Strings and Loops- Vertical Sentence | 6      |    ~ 1 week |
+| Python Pseudo Project: Hangman Game | 10    |  ~1.5 Weeks   |
+| GPIO Pins:Bash |  3     |    ~1 day |
+|  GPIO Pins:Python    | 5      |   ~ 1.5 days |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
 | Assignment 8 Fancy LED     | 6      |   ~1 week |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
