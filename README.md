@@ -305,9 +305,24 @@ Make your pi wireless.
 ## Prossess: 
 So a lot of the diffucultly in this assignment was in that my Pi kinda just died for no reason, but apart from that just follow the directions and youll be mostly there. The only thing that relates to code in this assignment is a simple blink code
 ## Code :
+```
+import RPi.GPIO as GPIO
+import time
 
+GPIO.setwarnings(False) # sets weird warnings to false
+led = [36] # list with both LED pins
+GPIO.setmode(GPIO.BOARD)
+GPIO.setup(led, GPIO.OUT) # sets board pin 16 as output
+
+for i in range(0, 10): # blinks the LED's 10 times
+        GPIO.output(led, 1)
+        time.sleep(0.5)
+        GPIO.output(led, 0)
+        time.sleep(0.5)
+
+```
 ## Reflection: 
-Make sure everything is as simple as possible, if you have any wiring from previous assignments get rid of it. On the topic of I would reccomend doing ssh before any other GPIO assignment.   
+Make sure everything is as simple as possible, if you have any wiring from previous assignments get rid of it. On the topic of I would recommend doing ssh before any other GPIO assignment.   
 </p>
 </details>
   <details>
@@ -334,11 +349,11 @@ Make sure everything is as simple as possible, if you have any wiring from previ
 | Python Assignment 3: Strings and Loops- Vertical Sentence | 6      |    ~ 1 week |
 | Python Pseudo Project: Hangman Game | 10    |  ~1.5 Weeks   |
 | GPIO Pins:Bash |  3     |    ~1 day |
-|  GPIO Pins:Python    | 5      |   ~ 1.5 days |
-| Assignment 7 Hello VS code |  2     |    ~1 day |
-| Assignment 8 Fancy LED     | 6      |   ~1 week |
-| Assignment 7 Hello VS code |  2     |    ~1 day |
-| Assignment 8 Fancy LED     | 6      |   ~1 week |
+| GPIO Pins:Python    | 5      |   ~ 1.5 days |
+| SSH |  2     |    ~1 day |
+| I2C     | 6      |   ~1 week |
+| Flask |  2     |    ~1 day |
+
 </p>
 </details>
 
