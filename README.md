@@ -262,19 +262,19 @@ while [ $count -lt 10 ];
 # when the counter ($ - a variable) is less than 10:
 do
 ```
-at this point ive forgotten how I got this code but here it is.
+at this point I've forgotten how I got this code but here it is, all this assignment is is alternateing Led blinks much like many other engineering assignments. The only difference is the bash part but it's diferences in formatting and things like gpio pin out vs output. 
 ## Diagram:
 ## Reflection: 
-Its mainly a lot of learning what bash is and figuring out how to not to think in "python".  
+Its mainly a lot of learning what bash is and figuring out how to not to think in "python". It's just a bit of change in look, however I still prefer python overall maybe I'm just set in my ways.  
 </p>
 </details>
   <details>
 <summary>GPIO Pins:Python   </summary>
             
 ## Objective:
-Do the same thing as the previous assignment but in python
+Do the same thing as the previous assignment but in python.
 ## Prossess: 
-This assignment is pretty simple the biggest challenge is not think about the code in a "bash" mindset.
+This assignment is pretty simple the biggest challenge is not think about the code in a "bash" mindset. At this point I was thinking of how to convert bash code to python code when the best way to go about it is just to make new code thats a python led blink.
 ## Code Explanation:
 ```
 from gpiozero import LED
@@ -294,6 +294,7 @@ I could take a picture in real life of my wiring or you could look at this fritz
 https://github.com/rmckee75/Engineering_4_Notebook/blob/main/images/GPIOBashWiring.png
 
 ## Reflection: 
+Looking back this is one of the easier assignments 
 </p>
 </details>
   <details>
