@@ -252,21 +252,46 @@ Write code that turns a horizontial sentence into a vertical one.
 <summary>GPIO Pins:Bash  </summary>
             
 ## Objective:
-## Prossess:
-## Code Explanation:
-## Problems and Solutions:
+Make a blinking led
+## Prossess: 
+Just wire up a led/leds then write some bash code, bash sucks but the main issue was figuring out this bit of code
+
+```
+while [ $count -lt 10 ];
+# when the counter ($ - a variable) is less than 10:
+do
+```
+at this point ive forgotten how I got this code but here it is.
 ## Diagram:
 ## Reflection: 
+Its mainly a lot of learning what bash is and figuring out how to not to think in "python".  
 </p>
 </details>
   <details>
 <summary>GPIO Pins:Python   </summary>
             
 ## Objective:
-## Prossess:
+Do the same thing as the previous assignment but in python
+## Prossess: 
+This assignment is pretty simple the biggest challenge is not think about the code in a "bash" mindset.
 ## Code Explanation:
-## Problems and Solutions:
-## Diagram:
+```
+from gpiozero import LED
+from time import sleep
+
+led1 = LED(17)
+
+while True:
+	led1.on()
+	sleep(0.5)
+	led1.off()
+	sleep(0.5)
+```
+This code is VERY simple just set the led to a pin turn it on boom.
+## Diagram: 
+I could take a picture in real life of my wiring or you could look at this fritzing diagram made by a fellow student kudos to him
+https://github.com/rmckee75/Engineering_4_Notebook/blob/main/images/GPIOBashWiring.png
+
 ## Reflection: 
 </p>
 </details>
@@ -274,11 +299,13 @@ Write code that turns a horizontial sentence into a vertical one.
 <summary>GPIO Pins:SSH </summary>
             
 ## Objective:
-## Prossess:
-## Code Explanation:
-## Problems and Solutions:
-## Diagram:
+Make your pi wireless.
+## Prossess: 
+So a lot of the diffucultly in this assignment was in that my Pi kinda just died for no reason, but apart from that just follow the directions and youll be mostly there. The only thing that relates to code in this assignment is a simple blink code
+## Code :
+
 ## Reflection: 
+Make sure everything is as simple as possible, if you have any wiring from previous assignments get rid of it. On the topic of I would reccomend doing ssh before any other GPIO assignment.   
 </p>
 </details>
   <details>
