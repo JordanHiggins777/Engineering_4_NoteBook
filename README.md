@@ -168,6 +168,7 @@ The rest of the code involves making a while loop then setting a variable equal 
 ## Diagram:
   <p align="center">
   <img width="300" src= "https://github.com/JordanHiggins777/Engineering_4_NoteBook/blob/main/dice.png">
+	
 ## Reflection:
 This was the first coding assignment of the year,in that you code a simple dice roller. This assignment will introduce to you basic inputs, and randomizers. Looking back this assignment wasnt too hard and its a good way to dip your toes into coding at the begining of the year.
 ## Resources:
